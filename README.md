@@ -1,6 +1,6 @@
 # JS-30-DAY-16
 
-# <h1 aligh='center'> CSS Text Shadow Mouse Move Effect </h1>
+# <center> CSS Text Shadow Mouse Move Effect </center>
 
 ## [demo](https://cenacrharsh.github.io/JS-30-DAY-16/)
 
