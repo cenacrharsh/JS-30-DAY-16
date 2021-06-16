@@ -4,6 +4,6 @@
 
 ## [demo](https://cenacrharsh.github.io/JS-30-DAY-16/)
 
-## [BLOG]()
+## [BLOG](https://dev.to/cenacr007_harsh/javascript-30-day-16-a41)
 
 ![ss](./ss.png)
